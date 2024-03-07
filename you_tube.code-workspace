@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "you_tube",
+			"path": "."
+		},
+		{
+			"name": "js",
+			"path": "../Bootstrap/js"
+		},
+		{
+			"name": "css",
+			"path": "../Bootstrap/css"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "you_tube"
+	}
+}
